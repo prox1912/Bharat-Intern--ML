@@ -8,17 +8,12 @@ In this repository i completed the tasks that i got in the Machine Learning inte
 
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
 
-Dataset : https://drive.google.com/file/d/1r5YDbOOFpgQr-O_XCSVa1RMVQWBeAlXv/view?usp=sharing
 
 **TASK : 2** 
 
-*Wine Quality Prediction :*
+*Movie Recommendation :*
 
-"Machine Learning model to predict the quality of wine using linear regression only Jupyter notebook code."
-
-In this project i also used flask to deploy our Machine Learning model in a simple html web site.
-
-Dataset : https://drive.google.com/file/d/1ql-stlf9sFA9MYVq1xszZ3IB_9FAkK4E/view?usp=sharing
+"To build a movie recommendation system using collaberative filtering and ML techniques in python."
 
 **TASK : 3**
 
@@ -26,7 +21,7 @@ Dataset : https://drive.google.com/file/d/1ql-stlf9sFA9MYVq1xszZ3IB_9FAkK4E/view
 
 "Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code."
 
-Dataset : https://drive.google.com/file/d/1BjuNlhtTIvaeOE_Cr_CoHNmHGxHZbzjq/view?usp=sharing
+
 
 
 
